@@ -1,5 +1,5 @@
 # Fundamentals_Data_Analysis_Project-2019
-This is the repository for project for Fundamentals of Data Analysis at GMIT 2019.
+This is the repository for my project for the Fundamentals of Data Analysis at GMIT 2019.
 
 This assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter.
 The project is broken into three parts, as follows.
@@ -19,12 +19,30 @@ Click the green Clone or download button
 
 ## How to run the code
 
-**Python 3** was used to develop this project. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the **Anaconda Python distribution** at https://www.anaconda.com/distribution/
+**Python 3** was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the **Anaconda Python distribution** at https://www.anaconda.com/distribution/. 
 
-However, the Jupyter Notebook [tips-project.ipynb](https://github.com/angela1C/Fundamentals_Data_Analysis_Project-2019/blob/master/tips-project.ipynb) with all it's code and output can be viewed directly in this GitHub repository in the browser without Python 3 installed.
-
-If, however the notebook doesn't render on GitHub as may happen from time to time, the url for this repository https://github.com/angela1C/numpy.random can be copied and pasted into the [Jupyter nbviewer ](https://nbviewer.jupyter.org ) at
+The Jupyter Notebook [tips-project.ipynb](https://github.com/angela1C/Fundamentals_Data_Analysis_Project-2019/blob/master/tips-project.ipynb) itself can be viewed directly in this GitHub repository in a browser without Python 3 being installed. On occasion the Jupyter Notebook may not render correctly in which case the url <https://github.com/angela1C/Fundamentals_Data_Analysis_Project-2019> can be copied and pasted in to the [Jupyter nbviewer ](https://nbviewer.jupyter.org ) at
 https://nbviewer.jupyter.org  where you enter the location of a Jupyter Notebook and click `Go` to have it rendered there.
+
+
+## Overview of the notebook.
+The notebook is broken into 3 parts corresponding to the project instructions. 
+
+### Part 1
+I first looked at some of the background of the Tips dataset and loaded the dataset into python using the pandas library. The dataset is a small prepared dataset and therefore no cleaning as such was required. Exploratory data analysis (EDA) was the next step. Pandas was used to get a good overview of the structure of the dataset and to describe the data using statistics. Seaborn was used to create visualisations.
+There are both categorical and quantitative variables in the dataset which determimed the kind of statistics and visualisations that are appropriate to apply. In this section I focused mostly on univariate exploratory data analysis using the variables in the dataset as later sections look more at multivariate EDA of the dataset. 
+
+I did include a bit of detail about the python packages used, the statistics that were applied to the dataset and the type of plots used.
+This provides a reference point for other projects in the future.
+
+### Part 2
+
+
+
+
+
+
+
 
 Summarise the project plan in the Readme.
 Use a to-do list like GitHub issues
