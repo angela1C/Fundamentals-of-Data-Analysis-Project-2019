@@ -37,15 +37,10 @@ This provides a reference point for other projects in the future.
 
 ### Part 2
 
+In this section I looked at the relationship between the total bill and the tip amount using regression and some statistics. Seaborn plots were the main focus and while these do not give the statistical values they do visualise the regression relationship between variables and the effects of other variables on the relationship between total bill and tip amount. 
+I did include some detail about regression.
 
 
-
-
-
-
-
-Summarise the project plan in the Readme.
-Use a to-do list like GitHub issues
 
 References
 
