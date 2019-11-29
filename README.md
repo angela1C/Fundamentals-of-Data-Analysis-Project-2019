@@ -49,8 +49,3 @@ In this section I focused on the relationships between the sex and smoker variab
 
 ### References used are located at the end of the notebook.
 
-Python Software Foundation. Welcome to python.org. https://www.python.org/.
-GitHub Guides. Mastering markdown. https://guides.github.com/features/mastering-markdown/
-Project Jupyter. Project jupyter. https://jupyter.org/.
-Michael Waskom. seaborn. https://seaborn.pydata.org/.
-Michael Waskom. Tips data set. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
